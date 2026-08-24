@@ -1,55 +1,72 @@
-<h1 align="center">Hi there, I'm Vaishnavi 👋</h1>
+# 👋 Hi, I'm Vaishnavi Patil
+
+### AI/ML Engineer • Backend Developer • Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Passionate+Developer;Open-Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Backend+Developer;DSA+%26+Problem+Solving;Building+Practical+AI+Solutions" />
 </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="400">
-</p>
-
----
 
 ## 🚀 About Me
 
-I'm **Vaishnavi**, a passionate developer with a love for technology and innovation. I enjoy working on **open-source projects** and collaborating with others to build things that matter. I'm always curious, always learning, and always up for a good coding challenge!
+I'm a **Computer Science (AI/ML) engineering student** passionate about building practical AI solutions and understanding how systems work under the hood.
 
----
+* 🤖 Exploring **Machine Learning, Deep Learning, NLP & LLMs**
+* ⚙️ Interested in **AI Engineering, Backend Development & MLOps**
+* 🧠 Strengthening **DSA and Core Computer Science**
+* 🔬 Interested in **AI research and real-world applications**
+* 🏆 Hackathon participant with experience building solutions under pressure
+* 📚 Always learning, experimenting, and building
 
 ## 🛠️ Technical Stacks
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+`Python` `Java` `C` `R`
 
-**Frameworks & Libraries**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**AI / ML**
+`Machine Learning` `Deep Learning` `NLP` `LLMs` `Scikit-learn` `PyTorch`
 
-**Concepts:** Machine Learning · CS Core Subjects (DSA, OS, DBMS, CN)
+**Data & Visualization**
+`NumPy` `Pandas` `Matplotlib` `Plotly`
 
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Backend & Development**
+`FastAPI` `Flask` `Streamlit` `REST APIs`
 
----
+**Databases & AI Infrastructure**
+`MySQL` `FAISS` `ChromaDB`
 
-## 🤝 Commitments
+**Tools & Engineering**
+`Git` `GitHub` `Docker` `VS Code` `MLOps`
 
-- 📚 Committed to lifelong learning and staying current with emerging technologies
-- 🌱 Actively contributing to open-source projects
-- 🧑‍🏫 Passionate about mentoring new developers
-- 🤝 Open to collaboration on impactful, meaningful projects
+## 🎯 Commitments
+
+* 💻 Consistently practice **DSA and problem solving**
+* 🧠 Build deeper expertise in **AI Engineering**
+* 🔬 Explore research-driven AI applications
+* 🚀 Build and deploy meaningful projects
+* 🌱 Continuously improve through hands-on learning
+* 🤝 Contribute to projects and collaborate with other developers
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavipatil911&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavipatil911&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaishnavipatil911&style=flat-square&color=blue" alt="Profile views" />
+  <i>“Learn. Build. Break. Improve. Repeat.”</i>
 </p>
+
+<style>
+h1, h2 {
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+h1:hover, h2:hover {
+  transform: translateX(6px);
+}
+</style>
