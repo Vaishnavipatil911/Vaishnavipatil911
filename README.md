@@ -29,13 +29,13 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 `NumPy` `Pandas` `Matplotlib` `Plotly`
 
 **Backend & Development**
-`FastAPI` `Flask` `Streamlit` `REST APIs`
+`FastAPI` `Flask` `Streamlit` 
 
 **Databases & AI Infrastructure**
-`MySQL` `FAISS` `ChromaDB`
+`MySQL` 
 
 **Tools & Engineering**
-`Git` `GitHub` `Docker` `VS Code` `MLOps`
+`Git` `GitHub` `Docker` `VS Code` 
 
 ## 🎯 Commitments
 
