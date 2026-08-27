@@ -3,11 +3,11 @@
 ### AI/ML Engineer • Backend Developer • Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI%2FML+Enthusiast;Backend+Developer;DSA+%26+Problem+Solving;Building+Practical+AI+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Backend+Developer;DSA+%26+Problem+Solving;Building+Practical+AI+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ## 🚀 About Me
@@ -22,19 +22,19 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 * 📚 Always learning, experimenting, and building
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-5c0f0d3a-5e4f-4b1e-9f1c-0b5c7e0f9e1f.gif" width="450"/>
+  ✨ 💻 ✨   Keep Learning • Keep Building • Keep Growing   ✨ 💻 ✨
 </p>
 
 ## 🛠️ Technical Stacks
 
 **Languages**
-`Python` `Java` `C` `R`
+`Python` `Java`
 
 **AI / ML**
-`Machine Learning` `Deep Learning` `NLP` `LLMs` `Scikit-learn` `PyTorch`
+`Machine Learning` `Deep Learning` `NLP` ` ``Scikit-learn` `PyTorch`
 
 **Data & Visualization**
-`NumPy` `Pandas` `Matplotlib` `Plotly`
+`NumPy` `Pandas` `Matplotlib` 
 
 **Backend & Development**
 `FastAPI` `Flask` `Streamlit`
@@ -50,7 +50,7 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavipatil911&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavipatil911&bg_color=ffffff&color=7c3aed&line=a855f7&point=ec4899&area=true&hide_border=true" width="95%"/>
 </p>
 
 ## 🎯 Commitments
@@ -63,47 +63,25 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 * 🤝 Contribute to projects and collaborate with other developers
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaishnavipatil911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="90%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=EC4899&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%8C%B1;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C" />
 </p>
 
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavipatil911&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavipatil911&show_icons=true&theme=transparent&title_color=7c3aed&icon_color=ec4899&text_color=374151&border_color=e9d5ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavipatil911&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavipatil911&theme=transparent&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&sideLabels=7c3aed&border=e9d5ff" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=7C3AED&center=true&vCenter=true&width=600&lines=%E2%80%9CLearn.+Build.+Break.+Improve.+Repeat.%E2%80%9D" />
 </p>
 
 <p align="center">
-  <i>“Learn. Build. Break. Improve. Repeat.”</i>
+  🌸 💻 🤖   <b>Thanks for visiting my profile!</b>   🤖 💻 🌸
 </p>
-
-<style>
-h1, h2 {
-  transition: transform 0.3s ease, color 0.3s ease;
-  animation: fadeIn 1s ease-in;
-}
-
-h1:hover, h2:hover {
-  transform: translateX(6px);
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(15px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-</style>
