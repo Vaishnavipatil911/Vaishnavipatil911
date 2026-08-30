@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="YOUR_ANIME_GIRL_GIF_URL" width="400"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </p>
 
 ## 🚀 About Me
