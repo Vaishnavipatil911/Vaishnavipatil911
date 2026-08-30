@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Vaishnavi Patil
 
 ### AI/ML Engineer • Backend Developer • Problem Solver
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Backend+Developer;DSA+%26+Problem+Solving;Building+Practical+AI+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+  <img src="YOUR_ANIME_GIRL_GIF_URL" width="400"/>
 </p>
 
 ## 🚀 About Me
