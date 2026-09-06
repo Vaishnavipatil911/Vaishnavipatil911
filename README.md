@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="380"/>
+  <img src="https://gist.githubusercontent.com/LudovicoPiero/3d44561967a957993baeec648c33a06d/raw/cute_anime_girl.gif" width="380"/>
 </p>
 ```
 
