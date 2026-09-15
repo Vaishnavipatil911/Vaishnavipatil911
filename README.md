@@ -48,7 +48,7 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 `Git` `GitHub` `Docker` `VS Code`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,r,pytorch,sklearn,fastapi,flask,mysql,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,fastapi,flask,mysql,git,github,vscode" />
 </p>
 
 <p align="center">
