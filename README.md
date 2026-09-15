@@ -68,18 +68,6 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=EC4899&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%8C%B1;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C" />
 </p>
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavipatil911&show_icons=true&theme=transparent&title_color=7c3aed&icon_color=ec4899&text_color=374151&border_color=e9d5ff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavipatil911&theme=transparent&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&sideLabels=7c3aed&border=e9d5ff" />
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=7C3AED&center=true&vCenter=true&width=600&lines=%E2%80%9CLearn.+Build.+Break.+Improve.+Repeat.%E2%80%9D" />
 </p>
