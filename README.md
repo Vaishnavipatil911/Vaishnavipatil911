@@ -61,11 +61,3 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 * 🌱 Continuously improve through hands-on learning
 * 🤝 Contribute to projects and collaborate with other developers
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=EC4899&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%8C%B1;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=7C3AED&center=true&vCenter=true&width=600&lines=%E2%80%9CLearn.+Build.+Break.+Improve.+Repeat.%E2%80%9D" />
-</p>
-
