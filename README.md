@@ -23,9 +23,6 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 * 🏆 Hackathon participant with experience building solutions under pressure
 * 📚 Always learning, experimenting, and building
 
-<p align="center">
-  ✨ 💻 ✨   Keep Learning • Keep Building • Keep Growing   ✨ 💻 ✨
-</p>
 
 ## 🛠️ Technical Stacks
 
@@ -72,6 +69,3 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=7C3AED&center=true&vCenter=true&width=600&lines=%E2%80%9CLearn.+Build.+Break.+Improve.+Repeat.%E2%80%9D" />
 </p>
 
-<p align="center">
-  🌸 💻 🤖   <b>Thanks for visiting my profile!</b>   🤖 💻 🌸
-</p>
