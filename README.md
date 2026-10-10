@@ -48,9 +48,6 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
   <img src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,fastapi,flask,mysql,git,github,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnavipatil911&bg_color=ffffff&color=7c3aed&line=a855f7&point=ec4899&area=true&hide_border=true" width="95%"/>
-</p>
 
 ## 🎯 Commitments
 
