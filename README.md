@@ -30,7 +30,7 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 `Python` `Java`
 
 **AI / ML**
-`Machine Learning` `Deep Learning` `NLP` ` ``Scikit-learn` `PyTorch`
+`Machine Learning` `Deep Learning` `NLP` ` `Scikit-learn` `PyTorch`
 
 **Data & Visualization**
 `NumPy` `Pandas` `Matplotlib` 
@@ -42,7 +42,7 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 `MySQL`
 
 **Tools & Engineering**
-`Git` `GitHub` `Docker` `VS Code`
+`Git` `GitHub` `Docker` `Jupyter Notebook` 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,pytorch,sklearn,fastapi,flask,mysql,git,github,vscode" />
