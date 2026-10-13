@@ -30,7 +30,7 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 `Python` `Java`
 
 **AI / ML**
-`Machine Learning` `Deep Learning` `NLP` ` `Scikit-learn` `PyTorch`
+`Machine Learning` `Deep Learning` `NLP` `Scikit-learn` `PyTorch`
 
 **Data & Visualization**
 `NumPy` `Pandas` `Matplotlib` 
