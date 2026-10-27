@@ -20,7 +20,6 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 * ⚙️ Interested in **AI Engineering, Backend Development & MLOps**
 * 🧠 Strengthening **DSA and Core Computer Science**
 * 🔬 Interested in **AI research and real-world applications**
-* 🏆 Hackathon participant with experience building solutions under pressure
 * 📚 Always learning, experimenting, and building
 
 
@@ -54,7 +53,5 @@ I'm a **Computer Science (AI/ML) engineering student** passionate about building
 * 💻 Consistently practice **DSA and problem solving**
 * 🧠 Build deeper expertise in **AI Engineering**
 * 🔬 Explore research-driven AI applications
-* 🚀 Build and deploy meaningful projects
 * 🌱 Continuously improve through hands-on learning
-* 🤝 Contribute to projects and collaborate with other developers
 
